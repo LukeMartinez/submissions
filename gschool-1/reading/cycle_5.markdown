@@ -10,7 +10,7 @@ For this cycle, please select a text from our [Ruby Texts](http://tutorials.jump
 
 * Antony Siegert - 
 * Ben Horne - 
-* Ben Lewis - Design Patterns in Ruby
+* Ben Lewis - 
 * Billy Griffin - 
 * Bree Thomas - Russ Olsen’s Eloquent Ruby
 * Brian Winterling - 
@@ -22,14 +22,14 @@ For this cycle, please select a text from our [Ruby Texts](http://tutorials.jump
 * Kevin Powell - 
 * Lauren Spath Luhring - 
 * Louisa Barrett - 
-* Luke Martinez - 
+* Luke Martinez - Sandi Metz’ Practical Object-Oriented Design with Ruby
 * Magan Adam - 
 * Nathaniel Watts - 
 * Nikhil Taneja - 
 * Persa Zula - 
 * Quentin Tai - 
-* Rolen Le - Design Patterns in Ruby. To The Moon!
+* Rolen Le - 
 * Romeeka Gayhart - 
-* Simon Taranto - Design Patterns in Ruby
+* Simon Taranto - 
 * Tyler Long - 
 * Will Mitchell - 
